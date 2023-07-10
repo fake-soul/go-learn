@@ -1,0 +1,8 @@
+2023-07-10 10:23:15 [INFO] Application started
+2023-07-10 10:23:25 [WARNING] Invalid input received
+2023-07-10 10:23:30 [ERROR] Database connection failed
+2023-07-10 10:24:05 [INFO] User logged in
+2023-07-10 10:25:18 [DEBUG] API request processed
+2023-07-10 10:26:40 [ERROR] File not found: index.html
+2023-07-10 10:27:12 [INFO] Server shutdown initiated
+2023-07-10 10:27:15 [INFO] Server shutdown complete
